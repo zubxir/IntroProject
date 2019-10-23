@@ -1,2 +1,0 @@
-class Mastery < ApplicationRecord
-end

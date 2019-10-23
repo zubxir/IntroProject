@@ -1,2 +1,0 @@
-class Champion < ApplicationRecord
-end

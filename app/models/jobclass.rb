@@ -1,3 +1,0 @@
-class Jobclass < ApplicationRecord
-  belongs_to :location
-end
